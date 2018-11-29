@@ -1,0 +1,15 @@
+﻿030.00 BostonRobotics1 Spotmini 002.222 00:00:00
+004.40 iRobot1 Roomba61 000.555 00:00:00
+075.00 BostonRobotics2 Atlas 001.667 00:00:00
+053.00 Fanuc1 7iA 000.000 00:00:00
+154.00 BostonRobotics3 Wildcat 008.888 00:00:00
+002.25 iRobot2 Brava-Jet 000.277 00:00:00
+109.00 BostonRobotics4 BigDog 002.777 00:00:00
+017.00 Fanuc2 M-1iA 000.001 00:00:00
+105.00 BostonRobotics5 Handle 001.111 00:00:00
+008.00 iRobot3 Mirra 001.388 00:00:00 
+005.00 BostonRobotics6 SandFlea 001.112 00:00:00
+030.01 HansonRobotics7 Sophia 000.002 00:00:00
+012.00 BostonRobotics8 RHex 000.833 00:00:00
+001.65 Sony Aibo-ERS-7 000.972 00:00:00
+590.00 BostonRobotics9 LS3 008.889 00:00:00

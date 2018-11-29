@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1516905460 source:c:\users\luzen\desktop\programa\fila.c
+	"stdlib.h"
+	"stdio.h"
+	"Fila.h"
+
+1511114094 c:\users\luzen\desktop\programa\fila.h
+
+1516901339 source:c:\users\luzen\desktop\programa\main.c
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+	"Fila.h"
+	"arvore.h"
+	"avl.h"
+
+1516906608 c:\users\luzen\desktop\programa\arvore.h
+
+1516901272 c:\users\luzen\desktop\programa\avl.h
+	"arvore.h"
+
+1516906600 source:c:\users\luzen\desktop\programa\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+	"avl.h"
+	"Fila.h"
+
+1516901701 source:c:\users\luzen\desktop\programa\avl.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+	"avl.h"
+
+1516906600 source:c:\users\pedro\desktop\programa\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+	"avl.h"
+	"Fila.h"
+
+1516906608 c:\users\pedro\desktop\programa\arvore.h
+
+1516901272 c:\users\pedro\desktop\programa\avl.h
+	"arvore.h"
+
+1511114094 c:\users\pedro\desktop\programa\fila.h
+
+1516901701 source:c:\users\pedro\desktop\programa\avl.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+	"avl.h"
+
+1516905460 source:c:\users\pedro\desktop\programa\fila.c
+	"stdlib.h"
+	"stdio.h"
+	"Fila.h"
+
+1516903000 source:c:\users\ind\documents\faculdade\2 -aeds 1\trabalho 17.2\programa\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+	"avl.h"
+	"Fila.h"
+
+1516903008 c:\users\ind\documents\faculdade\2 -aeds 1\trabalho 17.2\programa\arvore.h
+
+1516942906 c:\users\ind\documents\faculdade\2 -aeds 1\trabalho 17.2\programa\avl.h
+	"Fila.h"
+
+1516943393 c:\users\ind\documents\faculdade\2 -aeds 1\trabalho 17.2\programa\fila.h
+
+1516944978 source:c:\users\ind\documents\faculdade\2 -aeds 1\trabalho 17.2\programa\avl.c
+	<stdio.h>
+	<stdlib.h>
+	"avl.h"
+	"Fila.h"
+
+1516943307 source:c:\users\ind\documents\faculdade\2 -aeds 1\trabalho 17.2\programa\fila.c
+	"stdlib.h"
+	"stdio.h"
+	"Fila.h"
+
+1516945953 source:c:\users\ind\documents\faculdade\2 -aeds 1\trabalho 17.2\programa\main.c
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+	"Fila.h"
+	"avl.h"
+
+1516943307 c:\users\ind\documents\faculdade\2 -aeds 1\trabalho 17.2\programa\fila.c
+	"stdlib.h"
+	"stdio.h"
+	"Fila.h"
+
+1516951828 source:c:\users\lanna\desktop\faculdade e rep\programa\arvore.c
+	<stdlib.h>
+	"arvore.h"
+	"avl.h"
+	"Fila.h"
+
+1516885008 c:\users\lanna\desktop\faculdade e rep\programa\arvore.h
+
+1516955883 c:\users\lanna\desktop\faculdade e rep\programa\avl.h
+	"Fila.h"
+
+1516978847 c:\users\lanna\desktop\faculdade e rep\programa\fila.h
+
+1516978847 source:c:\users\lanna\desktop\faculdade e rep\programa\fila.c
+	"stdlib.h"
+	"stdio.h"
+	"Fila.h"
+
+1516991545 source:c:\users\lanna\desktop\faculdade e rep\programa\main.c
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+	"Fila.h"
+	"avl.h"
+	"Heap.h"
+
+1516978847 source:c:\users\lanna\desktop\faculdade e rep\programa\avl.c
+	<stdio.h>
+	<stdlib.h>
+	"avl.h"
+	"Fila.h"
+
+1516989307 source:c:\users\lanna\desktop\faculdade e rep\programa\heap.c
+	<malloc.h>
+	<stdio.h>
+	"Heap.h"
+	"Fila.h"
+
+1516993253 c:\users\lanna\desktop\faculdade e rep\programa\heap.h
+
